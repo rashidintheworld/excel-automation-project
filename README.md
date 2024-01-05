@@ -1,6 +1,6 @@
 # excel-automation-project
 
-This project was developed using the Apache POI library in Java and basically 
+This project was developed using Java and basically 
 processes user-defined numbers through special methods and functions in the util 
 package and transfers the results to an Excel file.
 
